@@ -20,7 +20,7 @@ __author__ = 'gank'
 
 class Configuration(object):
 
-    auth_url = "http://gabrielanke.ddns.net:5000/v2.0"
+    auth_url = ""
     username = "admin"
     tenant_name = "admin"
     tenant_id = "9a6819247ed640439584fbca408e28ae"
@@ -29,3 +29,4 @@ class Configuration(object):
     object_name = "test"
     object_content = "To be or not to be ~ Barack Obama"
     down_file_name = "test.txt"
+
