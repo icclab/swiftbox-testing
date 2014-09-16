@@ -20,7 +20,7 @@ __author__ = 'gank'
 
 class Configuration(object):
 
-    auth_url = ""
+    auth_url = "xxx.xxx.xxx:5000/v2.0"
     username = "admin"
     tenant_name = "admin"
     tenant_id = "9a6819247ed640439584fbca408e28ae"
