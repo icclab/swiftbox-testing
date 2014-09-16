@@ -27,6 +27,6 @@ class Configuration(object):
     container_name = "gabriel"
     password = "secrete"
     object_name = "test"
-    object_content = "To be or not to be ~ Barack Obama"
+    object_content = "It works! ^-^"
     down_file_name = "test.txt"
 
